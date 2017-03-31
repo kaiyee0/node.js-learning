@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "node.js-learning",
-            "program": "${workspaceRoot}/app.js",
+            "program": "${workspaceRoot}",
             "cwd": "${workspaceRoot}"
         },
         {
